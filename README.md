@@ -1,2 +1,2 @@
-# BaconBreaker.github.io
-Personal GitHub pages website
+# Personal GitHub page website
+WIP
